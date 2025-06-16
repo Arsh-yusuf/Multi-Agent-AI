@@ -23,9 +23,10 @@ A modular multi-agent system that interprets user goals and uses public APIs (Sp
 
 
 3. Create a .env file with your keys:
+   
    WEATHERAPI_KEY=your_key
    NEWSAPI_KEY=your_key
 
-4. Run the app
+5. Run the app
    streamlit run app.py
 
